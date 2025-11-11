@@ -33,14 +33,64 @@ The UI displays information provided by GAS:
 
 ## Demonstration
 
-<p align="center">
-  <img src="media/dash.gif" width="350">
-  <img src="media/fireball.gif" width="350">
-</p>
-<p align="center">
-  <img src="media/heal_zone.gif" width="350">
-  <img src="media/damage_zone.gif" width="350">
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="media/Dash.gif" width="450"><br>
+      <sub>Dash ability</sub>
+    </td>
+    <td align="center">
+      <img src="media/Fireball.gif" width="450"><br>
+      <sub>Fireball ability</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="media/Flash.gif" width="450"><br>
+      <sub>Flash ability</sub>
+    </td>
+     <td align="center">
+      <img src="media/Silence.gif" width="450"><br>
+       <sub>Silence ability</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="media/Root.gif" width="450"><br>
+      <sub>Root ability</sub>
+    </td>
+    <td align="center">
+      <img src="media/SlowDamage.gif" width="450"><br>
+      <sub>Slow and damage Zone</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="media/HealZone.gif" width="450"><br>
+      <sub>Heal Zone</sub>
+    </td>
+    <td align="center">
+      <img src="media/Replication.gif" width="450"><br>
+      <sub>Replicated abilities</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="media/Overview.png" width="450"><br>
+      <sub>UI overview</sub>
+    </td>
+    <td align="center">
+      <img src="media/Active&amp;CdAbilities.png" width="450"><br>
+      <sub>UI active abilities and abilities in cooldown</sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 <p align="center"><sub>Examples of ability activation, area effects, and GameplayCue feedback.</sub></p>
 
@@ -72,6 +122,6 @@ This project was created as a **technical exploration of GAS** — focusing on g
 
 ---
 
-### 🧾 Notes
+### Notes
 
 Code examples available inside the `/Source/GASRPG/` folder.
