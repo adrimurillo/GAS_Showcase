@@ -37,55 +37,55 @@ The UI displays information provided by GAS:
 <table>
   <tr>
     <td align="center">
-      <img src="media/Dash.gif" width="450"><br>
+      <img src="media/Dash.gif" width="350"><br>
       <sub>Dash ability</sub>
     </td>
     <td align="center">
-      <img src="media/Fireball.gif" width="450"><br>
+      <img src="media/Fireball.gif" width="350"><br>
       <sub>Fireball ability</sub>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="media/Flash.gif" width="450"><br>
+      <img src="media/Flash.gif" width="350"><br>
       <sub>Flash ability</sub>
     </td>
      <td align="center">
-      <img src="media/Silence.gif" width="450"><br>
+      <img src="media/Silence.gif" width="350"><br>
        <sub>Silence ability</sub>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="media/Root.gif" width="450"><br>
+      <img src="media/Root.gif" width="350"><br>
       <sub>Root ability</sub>
     </td>
     <td align="center">
-      <img src="media/SlowDamage.gif" width="450"><br>
+      <img src="media/SlowDamage.gif" width="350"><br>
       <sub>Slow and damage Zone</sub>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="media/HealZone.gif" width="450"><br>
+      <img src="media/HealZone.gif" width="350"><br>
       <sub>Heal Zone</sub>
     </td>
     <td align="center">
-      <img src="media/Replication.gif" width="450"><br>
+      <img src="media/Replication.gif" width="350"><br>
       <sub>Replicated abilities</sub>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="media/Overview.png" width="450"><br>
+      <img src="media/Overview.png" width="350"><br>
       <sub>UI overview</sub>
     </td>
     <td align="center">
-      <img src="media/Active&amp;CdAbilities.png" width="450"><br>
+      <img src="media/Active&amp;CdAbilities.png" width="350"><br>
       <sub>UI active abilities and abilities in cooldown</sub>
     </td>
   </tr>
