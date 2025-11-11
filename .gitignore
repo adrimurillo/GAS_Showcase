@@ -1,9 +1,10 @@
-Binaries
-DerivedDataCache
-Intermediate
-Saved
-.vscode
-.vs
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+.idea/
 *.VC.db
 *.opensdf
 *.opendb
@@ -12,3 +13,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.DotSettings
+*.DotSettings.user
+.vsconfig
